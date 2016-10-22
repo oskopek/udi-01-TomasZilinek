@@ -1,0 +1,20 @@
+= udi-01
+
+== Goals
+
+* Get to know Git & GitHub.
+* Principles and internals of Git.
+* Try Git out in practice on the first assignment.
+
+== Tasks
+
+* Install and configure Git on your system
+* Register on GitHub and connect to our organization.
+** TODO: CLASSROOM ASSIGNMENT LINK
+* Configure Git to work with GitHub.
+* Clone the repository to your system.
+* link:blob/master/assignment.adoc[Solve the assignment]
+** Commit early, commit often.
+** Backup your work! (`git push`)
+* Push and notify me that you're done.
+
