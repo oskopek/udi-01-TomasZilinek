@@ -27,6 +27,7 @@
 * https://github.com/[GitHub]
 * https://try.github.io/[Git tutorial]
 * http://rogerdudler.github.io/git-guide/[Git tutorial 2]
+* **https://www.sbf5.com/~cduan/technical/git/[Git tutorial 3]**
 
 == Feedback
 
