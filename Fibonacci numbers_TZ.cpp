@@ -8,7 +8,7 @@ int main() {
 	cin >> N;
 	
 
-	for (;fn <= N;)
+	while (fn <= N)
 	{
 		fn = a + b;
 		b = a;
